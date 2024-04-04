@@ -27,5 +27,5 @@ The project is created with:
 - Lightgbm
 - Hyperopt
 ## Status
-The project is ongoing.
+The project has been completed.
 
